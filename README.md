@@ -3,7 +3,7 @@
 A small Python application that connects to a PostgreSQL database and performs
 the four CRUD operations (Create, Read, Update, Delete) on a `students` table.
 
-**Demo video:** PASTE_YOUR_VIDEO_LINK_HERE
+**Demo video:** (https://youtu.be/upciVxO8HWo)
 
 ## Project structure
 
